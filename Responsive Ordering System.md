@@ -13,5 +13,5 @@
 
 ![image](https://github.com/BigTiger2020/Responsive-Ordering-System/blob/main/rce.png)  
 
-*Get shell:  
+* Get shell:  
 ![image](https://github.com/BigTiger2020/Responsive-Ordering-System/blob/main/shell.png) 
